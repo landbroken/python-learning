@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package hello_word;
+
+message SayHi {
+    int32 id = 1;
+    string something = 2;
+    string extra_info = 3;
+}

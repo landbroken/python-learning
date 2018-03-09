@@ -1,0 +1,25 @@
+// [START declaration]
+syntax = "proto3";
+
+package USV2Sever;
+// [END declaration]
+
+// [START csharp_declaration]
+option csharp_namespace = "Ostar.Protobuf.USV2Sever.Admin";
+// [END csharp_declaration]
+
+// [START messages]
+message Admin {
+    string Cmd = 1;// what command will do
+    string U = 2;// administor's username
+    string P = 3;// administor's password
+
+    message User{
+        string N=1;//new user's username
+        string P=2;//new user's password
+        int32 Level=3;//new user's level
+        repeated string USVsname=4;// USVs array, which belong to the new user
+    }
+    repeated User newUs=4;// new users array
+}
+// [END messages]
