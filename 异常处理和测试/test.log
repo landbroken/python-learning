@@ -1,0 +1,47 @@
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 13, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+Booking service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 16, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+Booking0.0 service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 17, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+Booking2018-01-26 10:36:37 service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 17, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+Booking2018-01-26 10:37:01 service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 19, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+Booking2018-01-26 10:37:20 service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 17, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+2018-01-26 10:37:43tryLearning service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 17, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
+2018-01-26 10:38:05  tryLearning service is down!
+division by zero
+Traceback (most recent call last):
+  File "G:/mission/PythonLearning/Learning/异常处理/try_catch_finally.py", line 17, in foo
+    ret = a / b
+ZeroDivisionError: division by zero
