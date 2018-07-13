@@ -1,3 +1,10 @@
+# 参考文献
+[1]Python paho-mqtt 模块使用和API分析
+https://blog.csdn.net/youshenmebutuo/article/details/79779387#12publish
+
+[2]Python MQTT客户端实现
+https://blog.csdn.net/itas109/article/details/78873257
+
 # MqttClient.py
 是client示例，示例实现功能包括：
 * 1、client连接客户端；
