@@ -2,7 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94d701d-7e77-4117-a042-4bc9eb1c42e4" name="Default" comment="初始化提交">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" afterPath="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/#廖雪峰-函数式编程.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Learning.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/python-IO-learning.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Algorithm/KalmanFilter.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/.idea/TCPandUDP.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/Mqtt/MqttPublish.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/TCPClient.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/TCPClient_HttpGet.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/TCPServer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Communication/sina.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DataBase/.idea/DataBase.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DataBase/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DataBase/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DataBase/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/DataBase/first_MySQL.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/.idea/Email.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/POP.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Email/SMTP.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/.idea/Process&amp;Thread.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/first_ProcessPool.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/first_multiprocessing.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Process&amp;Thread/first_subprocess.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/numpy/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/numpy/Untitled.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/JSONCompare2Protobuf/GetData_JSON_Protobuf_SelfDefine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/JSONCompare2Protobuf/TCPClient.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/JSONCompare2Protobuf/TCPClient2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/Third_asyncio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/asyncio_net/SimpleEchoProtocol.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/asyncio_net/asyncio_client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/asyncio_net/asyncio_sever.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/first_asyncio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/TestCreate.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/addressbook.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/addressbook_pb2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/protobufCompile.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/protoc.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/test3.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/test3_pb2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/testCreate.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/testCreate_pb2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/protobufTest/timestamp.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/second_asyncio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/协程Coroutine.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/序列化JSON.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/序列化Protobuf.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python-IO-learning/序列化pickle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/廖雪峰-函数式编程test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/廖雪峰-函数章节练习.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/廖雪峰-模块.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/廖雪峰-正则表达式.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/廖雪峰-高级特性练习.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/.idea/异常处理和测试.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/mydict.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/mydict_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/test.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/异常处理和测试/try_catch_finally.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/排序算法/排序算法.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/输出1-100的质数.py" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/ReadMe.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -101,7 +183,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MqttPublish.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MqttPublish.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttPublish.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="729">
@@ -179,17 +261,6 @@
             <path>
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Communication" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Communication" type="462c0819:PsiDirectoryNode" />
-              <item name="Mqtt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -431,9 +502,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1911" y="-9" width="1618" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30634716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30634716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -594,17 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Communication/Mqtt/ReadMe.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-405">
@@ -622,6 +681,17 @@
           <folding>
             <element signature="e#34#69#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Communication/Mqtt/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
