@@ -20,7 +20,7 @@ def client_loop():
 
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))
-    client.subscribe("test")
+    client.subscribe("topic/host/control")
     client_id_c_sharp = "client001"
     client.publish(topic="slave/test",
                    payload="hello mqttSever!",
