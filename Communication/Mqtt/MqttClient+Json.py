@@ -1,6 +1,5 @@
 # coding=utf-8
 import paho.mqtt.client as mqtt
-import time
 import json
 
 HOST = "127.0.0.1"
@@ -33,7 +32,6 @@ def dict2student(d_in):
 
 
 def client_loop():
-    client_id = time.strftime('%Y%m%d%H%M%S', time.localtime(time.time()))
     client_id_c_sharp = "client001"
     client = mqtt.Client(client_id_c_sharp)  # ClientId不能重复，所以使用当前时间
     client.username_pw_set("username001", password="psw001")  # 必须设置，否则会返回「Connected with result code 4」
@@ -47,7 +45,6 @@ def client_loop():
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))
     client.subscribe("topic/host/control")
-    client_id_c_sharp = "client001"
     msg = "hello mqttSever!"
     publish(client, "slave/test", msg)
 

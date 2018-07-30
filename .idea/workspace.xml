@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d94d701d-7e77-4117-a042-4bc9eb1c42e4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" afterPath="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" afterPath="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python-IO-learning/序列化JSON.py" afterPath="$PROJECT_DIR$/python-IO-learning/序列化JSON.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py" afterPath="$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +16,8 @@
       <file leaf-file-name="MqttClient.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="243">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -44,8 +40,8 @@
       <file leaf-file-name="MqttClient+Json.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="-135">
+              <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
@@ -99,8 +95,8 @@
         <option value="$PROJECT_DIR$/LeetCode/566.py" />
         <option value="$PROJECT_DIR$/LeetCode/349.py" />
         <option value="$PROJECT_DIR$/python-IO-learning/序列化JSON.py" />
-        <option value="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" />
         <option value="$PROJECT_DIR$/Communication/Mqtt/ReadMe.md" />
+        <option value="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" />
         <option value="$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py" />
       </list>
     </option>
@@ -411,7 +407,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32909605" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.4967811" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40660593" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40660593" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -524,16 +520,6 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/349.py" />
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient2.py" />
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient3.py" />
-    <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#15#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python-IO-learning/序列化JSON.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -555,10 +541,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
+          <folding>
+            <element signature="e#15#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="44" column="0" lean-forward="true" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="-135">
+          <caret line="46" column="42" lean-forward="false" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
