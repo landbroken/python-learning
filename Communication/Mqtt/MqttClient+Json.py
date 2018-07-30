@@ -6,25 +6,27 @@ HOST = "127.0.0.1"
 PORT = 8222
 
 
-# region data class
+# region TestData class
+
+class TestData(object):
+    def __init__(self, str_in: str, str_arr_in: list, int_in: int, int_arr_in: list):
+        self.str_test = str_in
+        self.str_arr_test = str_arr_in
+        self.int_test = int_in
+        self.int_arr_test = int_arr_in
 
 
-class Equipment(object):
-    def __init__(self, name_in: str, id_in: int):
-        self.name = name_in
-        self.id = id_in
-
-
-def student2dict(std):
+def testdata2dict(std):
     return {
-        'name': std.name,
-        'id': std.id
+        'str_test': std.str_test,
+        'str_arr_test': std.str_arr_test,
+        'int_test': std.int_test,
+        'int_arr_test': std.int_arr_test
     }
 
 
-def dict2student(d_in):
-    return Equipment(d_in['name'], d_in['id'])
-
+def dict2testdata(d_in):
+    return TestData(d_in['str_test'], d_in['str_arr_test'], d_in['int_test'], d_in['int_arr_test'])
 
 # endregion
 
@@ -45,6 +47,7 @@ def client_loop():
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code " + str(rc))
     client.subscribe("topic/host/control")
+    client.subscribe("topic/serialize")
     msg = "hello mqttSever!"
     publish(client, "slave/test", msg)
 
@@ -53,9 +56,12 @@ def on_message(client, userdata, msg):
     payload = msg.payload.decode("utf-8")
     print(msg.topic + " " + payload)
     if msg.topic == "topic/host/control":
-        m_classS1 = Equipment(payload, 2)
-        serialize_classS1 = json.dumps(m_classS1, default=student2dict)
-        publish(client, "slave/json", serialize_classS1)
+        m_class2 = TestData("str", ["str_arr1", "str_arr2"], 18, [5, 7, 9])
+        serialize_class2 = json.dumps(m_class2, default=testdata2dict)
+        publish(client, "slave/json", serialize_class2)
+    if msg.topic == "topic/serialize":
+        deserialize_class2 = json.loads(payload, object_hook=dict2testdata)
+        print(deserialize_class2)
 
 
 def on_disconnect(client, userdata, rc):
