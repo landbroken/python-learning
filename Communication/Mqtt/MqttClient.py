@@ -29,7 +29,6 @@ def on_connect(client, userdata, flags, rc):
                    )
 
 
-
 def on_message(client, userdata, msg):
     print(msg.topic + " " + msg.payload.decode("utf-8"))
 

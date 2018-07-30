@@ -57,9 +57,11 @@ print(len(d3))
 
 # 序列化类
 m_classS1 = Student("mike", 18)
+print("新建m_classS1类并输出：")
 print(m_classS1)
-# serialize_classS1=json.dumps(m_classS1,default=student2dict)
-serialize_classS1 = json.dumps(m_classS1, default=lambda obj: obj.__dict__)
+serialize_classS1 = json.dumps(m_classS1,default=student2dict)
+# serialize_classS1 = json.dumps(m_classS1, default=lambda obj: obj.__dict__)
+print("序列化m_classS1类并输出：")
 print(serialize_classS1)
 print(type(serialize_classS1))
 print(len(serialize_classS1))

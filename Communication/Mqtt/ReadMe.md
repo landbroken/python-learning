@@ -17,5 +17,8 @@ https://blog.csdn.net/itas109/article/details/78873257
 是单次publish示例
 > import paho.mqtt.publish as publish
 
+# MqttClient+Json
+是演示了用mqtt发送序列化json
+
 publish.single自动连接mqtt服务器，
 发布一次消息，然后自动断开
