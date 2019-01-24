@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d94d701d-7e77-4117-a042-4bc9eb1c42e4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/异常处理和测试/try_catch_finally.py" afterPath="$PROJECT_DIR$/异常处理和测试/try_catch_finally.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,7 +17,7 @@
       <file leaf-file-name="MqttClient.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="216">
               <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
@@ -39,14 +40,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MqttClient+Json.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MqttClient+Json.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-972">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="27">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
               <folding>
                 <element signature="e#15#46#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mydict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/异常处理和测试/mydict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mydict_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/异常处理和测试/mydict_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/异常处理和测试/test.log">
+          <provider selected="true" editor-type-id="LogFileEditorProvider">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="try_catch_finally.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/异常处理和测试/try_catch_finally.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="16" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,14 +141,16 @@
         <option value="$PROJECT_DIR$/Communication/Mqtt/MqttClient.py" />
         <option value="$PROJECT_DIR$/python-IO-learning/序列化JSON.py" />
         <option value="$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py" />
+        <option value="$PROJECT_DIR$/异常处理和测试/try_catch_finally.py" />
+        <option value="$PROJECT_DIR$/异常处理和测试/test.log" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1986" />
-    <option name="y" value="120" />
-    <option name="width" value="1536" />
-    <option name="height" value="824" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -135,20 +177,25 @@
             <path>
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Communication" type="462c0819:PsiDirectoryNode" />
+              <item name="异常处理" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Communication" type="462c0819:PsiDirectoryNode" />
-              <item name="Mqtt" type="462c0819:PsiDirectoryNode" />
+              <item name="异常处理" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="异常处理和测试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,7 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MqttClient+Json">
+  <component name="RunManager" selected="Python.try_catch_finally">
     <configuration name="349" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,37 +373,37 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="dequeDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="try_catch_finally" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/常用数据结构" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/异常处理和测试" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-IO-learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/常用数据结构/dequeDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/异常处理和测试/try_catch_finally.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.MqttClient" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dequeDemo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.349" />
-      <item index="3" class="java.lang.String" itemvalue="Python.序列化JSON" />
-      <item index="4" class="java.lang.String" itemvalue="Python.MqttClient+Json" />
+      <item index="1" class="java.lang.String" itemvalue="Python.349" />
+      <item index="2" class="java.lang.String" itemvalue="Python.序列化JSON" />
+      <item index="3" class="java.lang.String" itemvalue="Python.MqttClient+Json" />
+      <item index="4" class="java.lang.String" itemvalue="Python.try_catch_finally" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.MqttClient+Json" />
-        <item index="1" class="java.lang.String" itemvalue="Python.序列化JSON" />
-        <item index="2" class="java.lang.String" itemvalue="Python.MqttClient" />
-        <item index="3" class="java.lang.String" itemvalue="Python.349" />
-        <item index="4" class="java.lang.String" itemvalue="Python.dequeDemo" />
+        <item index="0" class="java.lang.String" itemvalue="Python.try_catch_finally" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MqttClient+Json" />
+        <item index="2" class="java.lang.String" itemvalue="Python.序列化JSON" />
+        <item index="3" class="java.lang.String" itemvalue="Python.MqttClient" />
+        <item index="4" class="java.lang.String" itemvalue="Python.349" />
       </list>
     </recent_temporary>
   </component>
@@ -396,19 +443,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1618" height="878" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22085492" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22371244" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.5032189" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23305085" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32801822" sideWeight="0.4967811" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23234624" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997175" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -435,10 +482,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/first_asyncio.py" />
-    <entry file="file://$PROJECT_DIR$/asyncio_net/asyncio_sever.py" />
-    <entry file="file://$PROJECT_DIR$/second_asyncio.py" />
-    <entry file="file://$PROJECT_DIR$/JSONCompare2Protobuf/GetData_JSON_Protobuf_SelfDefine.py" />
     <entry file="file://$PROJECT_DIR$/协程Coroutine.py" />
     <entry file="file://$PROJECT_DIR$/序列化Protobuf.py" />
     <entry file="file://$PROJECT_DIR$/asyncio_net/asyncio_client.py" />
@@ -530,7 +573,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="216">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="74" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
@@ -559,11 +602,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Communication/Mqtt/MqttClient+Json.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="27">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
           <folding>
             <element signature="e#15#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常处理和测试/mydict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常处理和测试/mydict_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常处理和测试/test.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/异常处理和测试/try_catch_finally.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
